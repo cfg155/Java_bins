@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - app",
             "request": "launch",
             "mainClass": "app",
