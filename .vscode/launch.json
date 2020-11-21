@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "Web & Software Programming_5ece86d6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Web & Software Programming_5ece86d6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Project&Learning_c79a1b5b>",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Project&Learning_c79a1b5b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<Project&Learning_c79a1b5b>",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Project&Learning_c79a1b5b"
+        }
+    ]
+}
