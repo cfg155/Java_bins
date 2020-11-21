@@ -7,5 +7,7 @@ public class App {
         String nama = sc.nextLine();
 
         System.out.println(nama);
+
+        sc.close();
     }
 }
