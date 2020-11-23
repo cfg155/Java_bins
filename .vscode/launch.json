@@ -5,6 +5,20 @@
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "App",
+            "projectName": "Web & Software Programming_5ece86d6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lalala",
+            "request": "launch",
+            "mainClass": "test3.lalala",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
             "projectName": "Java_63931026"
         },
         {
