@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "src.main",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - classUtama",
+            "request": "launch",
+            "mainClass": "classUtama",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "App",

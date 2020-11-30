@@ -1,8 +1,11 @@
 public class classLain {
-    String nama="enric";
+    String namaMobil;
+    String varianMobil;
+    int roda;
 
-    public void hobi(){
-        System.out.println("hobi saya main");
+    public classLain(String namaMobil,String varianMobil, int roda){
+        this.namaMobil = namaMobil;
+        this.varianMobil = varianMobil;
+        this.roda = roda;
     }
-
 }

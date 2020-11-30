@@ -34,30 +34,26 @@ public class App {
     }
 
     public App(){
-        // classLain enric = new classLain();
-        // System.out.println(enric.nama);
-        // enric.hobi();
+        do{
+            System.out.println("1.Tambah Data");
+            System.out.println("2. Tampilkan Data");
+            System.out.println("3. apus data");
+            int pilihan = scan.nextInt(); scan.nextLine();
 
-        // do{
-        //     System.out.println("1.Tambah Data");
-        //     System.out.println("2. Tampilkan Data");
-        //     System.out.println("3. apus data");
-        //     int pilihan = scan.nextInt(); scan.nextLine();
+            switch(pilihan){
+                case 1:
+                    addData();
+                break;
 
-        //     switch(pilihan){
-        //         case 1:
-        //             addData();
-        //         break;
+                case 2:
+                    getData();
+                break;
 
-        //         case 2:
-        //             getData();
-        //         break;
-
-        //         case 3:
-        //             removeData();
-        //         break;
-        //     }
-        // }while(true);
+                case 3:
+                    removeData();
+                break;
+            }
+        }while(true);
     }
 
     public static void main(String[] args) { //gate
