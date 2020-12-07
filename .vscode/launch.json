@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OOP3",
+            "request": "launch",
+            "mainClass": "OOP3",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OOP2",
+            "request": "launch",
+            "mainClass": "OOP2",
+            "projectName": "Java_63931026"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - main",
             "request": "launch",
             "mainClass": "src.main",
