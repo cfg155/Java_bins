@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "PT_MENTOL.main",
+            "projectName": "Java_6db4905a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - OOP3",
             "request": "launch",
             "mainClass": "OOP3",
